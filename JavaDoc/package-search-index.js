@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"com.muhammadrifkipratamajbusio.jbus_android"},{"l":"com.muhammadrifkipratamajbusio.jbus_android.model"},{"l":"com.muhammadrifkipratamajbusio.jbus_android.request"}];updateSearchResults();
